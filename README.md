@@ -24,8 +24,20 @@ A list of all published and unpublished components for the [GOV.UK](https://desi
 * [ONS Design System](https://service-manual.ons.gov.uk/design-system/components/accordion) `component`
 * [NHS Design System](https://service-manual.nhs.uk/design-system/components/expander) | [Github](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/29)
 
+### Additional information
+[GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/125)	`pattern`
+
 ### Addresses	
 * [GOV.UK Design System](https://design-system.service.gov.uk/patterns/addresses/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/31) `pattern`
+
+### Alternative button styles
+[GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/154)	`style`
+
+### Asking for at least one thing
+[GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/214)	`pattern`
+
+### Autocomplete
+[GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/4)	`component`
 
 ## B
 
