@@ -43,10 +43,25 @@ A list of all published and unpublished components for the [GOV.UK](https://desi
 
 ### Back link	
 * [GOV.UK Design System](https://design-system.service.gov.uk/components/back-link/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/32) `component`
+
+### Back-to-top link
+* [GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/5)	`component`
+
 ### Bank details	
 * [GOV.UK Design System](https://design-system.service.gov.uk/patterns/bank-details/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/149)	`pattern`
+
+### Book an appointment
+* [GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/6)	`pattern`
+
+### Border styles		
+* [GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/135)	`style`
+
 ### Breadcrumbs	
 * [GOV.UK Design System](https://design-system.service.gov.uk/components/breadcrumbs/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/33)	`component`
+
+### Business details		
+* [GOV.UK Design System Github](https://github.com/alphagov/govuk-design-system-backlog/issues/7)	`pattern`
+
 ### Button	
 * [GOV.UK Design System](https://design-system.service.gov.uk/components/button/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/34)	`component`
 
