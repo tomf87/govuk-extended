@@ -111,12 +111,51 @@ A list of all published and unpublished components for the [GOV.UK](https://desi
 * [GOV.UK Design System](https://design-system.service.gov.uk/components/exit-this-page/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/213)	`component`
 
 ## F
+
+### Fieldset	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/fieldset/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/48)	`component`
+  
+### File upload	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/file-upload/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/49)	`component`
+  
+### Footer	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/footer/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/96)	`component`
+  
+### Form input prefixes and suffixes	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/text-input/#prefixes-and-suffixes) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/134)	`variant`
+
 ## G
+
+### Gender or sex
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/gender-or-sex/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/69)	`pattern`
+
 ## H
+
+### Header
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/header/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/97)	`component`
+
 ## I
-## J
-## K
+
+### Illustrations
+* [GOV.UK Design System](https://design-system.service.gov.uk/styles/images/#illustrations) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/26)	`style`
+
+### Images
+* [GOV.UK Design System](https://design-system.service.gov.uk/styles/images/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/70)	`style`
+
+### Inset text
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/inset-text/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/136)	`component`
+
 ## L
+
+### Layout
+* [GOV.UK Design System](https://design-system.service.gov.uk/styles/layout/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/52)	`style`
+
+### Links
+* [GOV.UK Design System](https://design-system.service.gov.uk/styles/links/) `style`
+
+### Lists
+* [GOV.UK Design System](https://design-system.service.gov.uk/styles/lists/) `style`
+
 ## M
 ## N
 ## O
