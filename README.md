@@ -11,7 +11,7 @@ A list of all published and unpublished components for the [GOV.UK](https://desi
 * [ONS Design system](https://service-manual.ons.gov.uk/design-system/patterns/access-codes) `pattern`
 
 ### Access denied
-* [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/158) `discussion`
+* [GOV.UK Design system backlog](https://github.com/alphagov/govuk-design-system-backlog/issues/158) `pattern`
 
 ### Accessibility statement
 * [GOV.UK Design system backlog](https://github.com/alphagov/govuk-design-system-backlog/issues/203) `pattern`
