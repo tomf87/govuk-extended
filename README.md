@@ -79,9 +79,37 @@ A list of all published and unpublished components for the [GOV.UK](https://desi
 ### Create accounts	
 * [GOV.UK Design System](https://design-system.service.gov.uk/patterns/create-accounts/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/41)	`pattern`
 
-
 ## D
+
+### Date input
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/date-input/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/42)	`component`
+
+### Dates
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/dates/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/43)	`pattern`
+  
+### Details
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/details/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/44)	`component`
+
 ## E
+
+### Email addresses
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/email-addresses/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/45)	`pattern`
+  
+### Equality information
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/equality-information/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/180)	`pattern`
+  
+### Error message
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/error-message/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/47)	`component`
+  
+### Error summary
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/error-summary/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/46)	`component`
+  
+### Exit a page quickly
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/exit-a-page-quickly/) | [Github](https://github.com/alphagov/govuk-design-system/discussions/categories/exit-this-page)	`pattern`
+  
+### Exit this page
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/exit-this-page/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/213)	`component`
+
 ## F
 ## G
 ## H
