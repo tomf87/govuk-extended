@@ -39,6 +39,47 @@ A list of all published and unpublished components for the [GOV.UK](https://desi
 * [GOV.UK Design System](https://design-system.service.gov.uk/components/button/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/34)	`component`
 
 ## C
+
+### Character count	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/character-count/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/67)	`component`
+
+### Check a service is suitable	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/check-a-service-is-suitable/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/35)	`pattern`
+  
+### Check answers	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/check-answers/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/36)	`pattern`
+
+### Checkboxes	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/checkboxes/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/37)	`component`
+
+### Colour	
+* [GOV.UK Design System](https://design-system.service.gov.uk/styles/colour/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/38)	`style`
+
+### Confirm a phone number	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/confirm-a-phone-number/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/239)	`pattern`
+
+### Confirm an email address	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/confirm-an-email-address/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/39)	`pattern`
+
+### Confirmation pages	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/confirmation-pages/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/40)	`pattern`
+
+### Contact a department or service team	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/contact-a-department-or-service-team/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/10)	`pattern`
+
+### Cookie banner	
+* [GOV.UK Design System](https://design-system.service.gov.uk/components/cookie-banner/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/12)	`component`
+
+### Cookies page	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/cookies-page/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/13)	`pattern`
+
+### Create a username	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/create-a-username/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/63)	`pattern`
+
+### Create accounts	
+* [GOV.UK Design System](https://design-system.service.gov.uk/patterns/create-accounts/) | [Github](https://github.com/alphagov/govuk-design-system-backlog/issues/41)	`pattern`
+
+
 ## D
 ## E
 ## F
