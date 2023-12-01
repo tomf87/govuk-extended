@@ -1,5 +1,5 @@
-# GOV.UK Extended
-A list of all published and unpublished components for the [GOV.UK](https://design-system.service.gov.uk/) and departmental design systems
+# GOV.UK extended design system
+A list of all published and unpublished components for the [GOV.UK](https://design-system.service.gov.uk/) and other departmental design systems
 
 ## A
 
